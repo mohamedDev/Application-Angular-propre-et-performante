@@ -1,8 +1,5 @@
 # <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meilleures pratiques pour une application angulaire propre et performante</font></font>
 
-    
-<font style="vertical-align: inherit;">Au cours des dernières années, notre équipe a affiné notre application, à la fois en termes de normes de codage et de performances, pour la rendre dans son meilleur état possible.</font></font>
-
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cet article décrit les pratiques que nous utilisons dans notre application et concerne Angular, Typescript, RxJs et @ ngrx / store.</font> <font style="vertical-align: inherit;">Nous allons également passer en revue certaines directives générales de codage pour aider à rendre l'application plus propre.</font></font>
 
 #### **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1) trackBy</font></font>**
